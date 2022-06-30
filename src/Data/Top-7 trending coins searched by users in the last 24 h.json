@@ -1,0 +1,110 @@
+{
+  "coins": [
+    {
+      "item": {
+        "id": "terrausd",
+        "coin_id": 12681,
+        "name": "TerraClassicUSD",
+        "symbol": "USTC",
+        "market_cap_rank": 96,
+        "thumb": "https://assets.coingecko.com/coins/images/12681/thumb/UST.png?1653548090",
+        "small": "https://assets.coingecko.com/coins/images/12681/small/UST.png?1653548090",
+        "large": "https://assets.coingecko.com/coins/images/12681/large/UST.png?1653548090",
+        "slug": "terraclassicusd",
+        "price_btc": 0.0000020792907431322592,
+        "score": 0
+      }
+    },
+    {
+      "item": {
+        "id": "mrweb-finance",
+        "coin_id": 15285,
+        "name": "MrWeb Finance",
+        "symbol": "AMA",
+        "market_cap_rank": 251,
+        "thumb": "https://assets.coingecko.com/coins/images/15285/thumb/TVocZFCRZ6tg8MqKCKXzZ9H2qSg29T75tK.png?1621114070",
+        "small": "https://assets.coingecko.com/coins/images/15285/small/TVocZFCRZ6tg8MqKCKXzZ9H2qSg29T75tK.png?1621114070",
+        "large": "https://assets.coingecko.com/coins/images/15285/large/TVocZFCRZ6tg8MqKCKXzZ9H2qSg29T75tK.png?1621114070",
+        "slug": "mrweb-finance",
+        "price_btc": 4.978915174479967e-7,
+        "score": 1
+      }
+    },
+    {
+      "item": {
+        "id": "terra-luna-2",
+        "coin_id": 25767,
+        "name": "Terra",
+        "symbol": "LUNA",
+        "market_cap_rank": 118,
+        "thumb": "https://assets.coingecko.com/coins/images/25767/thumb/01_Luna_color.png?1653556122",
+        "small": "https://assets.coingecko.com/coins/images/25767/small/01_Luna_color.png?1653556122",
+        "large": "https://assets.coingecko.com/coins/images/25767/large/01_Luna_color.png?1653556122",
+        "slug": "terra",
+        "price_btc": 0.00011597874698346119,
+        "score": 2
+      }
+    },
+    {
+      "item": {
+        "id": "evmos",
+        "coin_id": 24023,
+        "name": "Evmos",
+        "symbol": "EVMOS",
+        "market_cap_rank": 99,
+        "thumb": "https://assets.coingecko.com/coins/images/24023/thumb/evmos.png?1653958927",
+        "small": "https://assets.coingecko.com/coins/images/24023/small/evmos.png?1653958927",
+        "large": "https://assets.coingecko.com/coins/images/24023/large/evmos.png?1653958927",
+        "slug": "evmos",
+        "price_btc": 0.00009779366610693203,
+        "score": 3
+      }
+    },
+    {
+      "item": {
+        "id": "harmony",
+        "coin_id": 4344,
+        "name": "Harmony",
+        "symbol": "ONE",
+        "market_cap_rank": 140,
+        "thumb": "https://assets.coingecko.com/coins/images/4344/thumb/Y88JAze.png?1565065793",
+        "small": "https://assets.coingecko.com/coins/images/4344/small/Y88JAze.png?1565065793",
+        "large": "https://assets.coingecko.com/coins/images/4344/large/Y88JAze.png?1565065793",
+        "slug": "harmony",
+        "price_btc": 0.0000010114082362780358,
+        "score": 4
+      }
+    },
+    {
+      "item": {
+        "id": "carbon-credit",
+        "coin_id": 24644,
+        "name": "Carbon Credit",
+        "symbol": "CCT",
+        "market_cap_rank": 853,
+        "thumb": "https://assets.coingecko.com/coins/images/24644/thumb/wlURMRLZ_400x400.jpg?1648477454",
+        "small": "https://assets.coingecko.com/coins/images/24644/small/wlURMRLZ_400x400.jpg?1648477454",
+        "large": "https://assets.coingecko.com/coins/images/24644/large/wlURMRLZ_400x400.jpg?1648477454",
+        "slug": "carbon-credit",
+        "price_btc": 0.000025951103231103684,
+        "score": 5
+      }
+    },
+    {
+      "item": {
+        "id": "solana",
+        "coin_id": 4128,
+        "name": "Solana",
+        "symbol": "SOL",
+        "market_cap_rank": 9,
+        "thumb": "https://assets.coingecko.com/coins/images/4128/thumb/solana.png?1640133422",
+        "small": "https://assets.coingecko.com/coins/images/4128/small/solana.png?1640133422",
+        "large": "https://assets.coingecko.com/coins/images/4128/large/solana.png?1640133422",
+        "slug": "solana",
+        "price_btc": 0.0017764703974012272,
+        "score": 6
+      }
+    }
+  ],
+  "exchanges": []
+}
